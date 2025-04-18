@@ -33,6 +33,6 @@ body {
 @media (max-width: 1200px) {
     #heading-group h1 {
         font-weight: 100;
-        font-size: 3em;
+        font-size: 2.5em;
     }
 }
