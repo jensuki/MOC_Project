@@ -22,6 +22,7 @@ body {
 
 .content {
     margin-top: 100px;
+    margin-bottom: 100px;
 }
 
 #main_nav {
@@ -49,6 +50,11 @@ body {
 #heading-group h1 {
     font-weight: 100;
     font-size: 3.5em;
+}
+
+#main_nav.scrolled {
+    transition: background 300ms;
+    background: rgb(222, 192, 222);
 }
 
 @media (max-width: 1200px) {
